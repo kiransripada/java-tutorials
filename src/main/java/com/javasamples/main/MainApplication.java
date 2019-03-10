@@ -5,7 +5,6 @@ import java.util.List;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.javasamples.dao.EmployeeDAO;
 import com.javasamples.domain.Employee;
 import com.javasamples.service.EmployeeService;
 
